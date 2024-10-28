@@ -1,8 +1,10 @@
 # ChronoSpectra (Spectre du Temps)
 ## Concept
 ### Présentation du concept
-- Définir clairement l’idée centrale de l’installation multimédia.
-- Expliquer les objectifs créatifs et les expériences que l’on souhaite proposer aux utilisateurs.
+#### Concept
+Une oeuvre intéractive et immersive où l'intéracteur manipule le temps. Il contrôle une horloge qui a un impact direct sur les visuels et les sons, démontrant que chaque action a un impact sur le futur.
+#### Objectifs
+- **Impact des actions** : Montrer que chaque action a des conséquences directe, soulignant l'importance de nos choix.
 
 ### Références et inspirations
 - Citer des références visuelles, sonores ou artistiques influençant le projet.
